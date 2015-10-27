@@ -110,7 +110,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Drewing Maciej
 1. Gańcza Melchior
 1. Jaszczak Mariusz
-1. Kamola Filip
+1. [Kamola Filip](https://github.com/fkamola/Ruby)
 1. Klemarczyk Maciej
 1. Krakowiak Michał
 1. Marcinkiewicz Oskar
